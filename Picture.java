@@ -94,4 +94,7 @@ public class Picture
         }
     }
     
+    public void atardecer(){
+        sun.slowMoveVertical(120);
+    }
 }
